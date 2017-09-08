@@ -1,0 +1,22 @@
+﻿{
+  "LineItems": [
+    {
+      "Timestamp": "2017-02-02T00:00:00Z",
+      "CompanyId": 1,
+      "CurrencyCode": "DKK",
+      "Amount": 100
+    },
+    {
+      "Timestamp": "2017-02-02T00:00:00Z",
+      "CompanyId": 1,
+      "CurrencyCode": "THB",
+      "Amount": 5000
+    },
+    {
+      "Timestamp": "2017-02-03T00:00:00Z",
+      "CompanyId": 2,
+      "CurrencyCode": "EUR",
+      "Amount": 12000.33
+    }
+    ]
+}

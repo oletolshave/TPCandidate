@@ -1,0 +1,46 @@
+﻿{
+  "Events": [
+    {
+      "Timestamp": "2017-02-01T13:15:30Z",
+      "EventData": {
+        "Type": "CreateCompany",
+        "Parameters": {
+          "CompanyId": 1,
+          "CompanyName": "ABC Company Ltd",
+          "BaseCurrencyCode": "GBP"
+        }
+      }
+    },
+    {
+      "Timestamp": "2017-02-01T13:15:30Z",
+      "EventData": {
+        "Type": "CreateCompany",
+        "Parameters": {
+          "CompanyId": 2,
+          "CompanyName": "ABC Company Gmbh",
+          "BaseCurrencyCode": "EUR"
+        }
+      }
+    },
+    {
+      "Timestamp": "2017-02-16T09:44:09Z",
+      "EventData": {
+        "Type": "UpdateCompany",
+        "Parameters": {
+          "CompanyId": 1,
+          "UpdatedName": "ABC Company Inc."
+        }
+      }
+    },
+    {
+      "Timestamp": "2017-02-10T15:11:22Z",
+      "EventData": {
+        "Type": "UpdateCompany",
+        "Parameters": {
+          "CompanyId": 2,
+          "UpdatedName": "ABC Germany Gmbh"
+        }
+      }
+    }
+  ]
+}
